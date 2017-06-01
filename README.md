@@ -1,6 +1,6 @@
 
-<h3>angular2 项目整合</h3>
-<hr>
+<h3 style="color:red;">angular2 项目整合</h3>
+<hr stye="height:1px;color:block;">
 
 #步骤1. 设置开发环境
 
